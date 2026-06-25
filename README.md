@@ -8,6 +8,7 @@ A collection of LeetCode questions with solutions.
 | [0001-two-sum](https://github.com/Tushar-9009/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tushar-9009/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Tushar-9009/Leetcode/tree/master/0075-sort-colors) |
+| [2460-apply-operations-to-an-array](https://github.com/Tushar-9009/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions with solutions.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tushar-9009/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Tushar-9009/Leetcode/tree/master/0075-sort-colors) |
+| [2460-apply-operations-to-an-array](https://github.com/Tushar-9009/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -38,4 +40,8 @@ A collection of LeetCode questions with solutions.
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Tushar-9009/Leetcode/tree/master/0509-fibonacci-number) |
+## Simulation
+|  |
+| ------- |
+| [2460-apply-operations-to-an-array](https://github.com/Tushar-9009/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->

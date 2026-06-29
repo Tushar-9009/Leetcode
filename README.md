@@ -12,6 +12,7 @@ A collection of LeetCode questions with solutions.
 | [0075-sort-colors](https://github.com/Tushar-9009/Leetcode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Tushar-9009/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Tushar-9009/Leetcode/tree/master/0283-move-zeroes) |
+| [0661-image-smoother](https://github.com/Tushar-9009/Leetcode/tree/master/0661-image-smoother) |
 | [2460-apply-operations-to-an-array](https://github.com/Tushar-9009/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 ## Hash Table
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions with solutions.
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Tushar-9009/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0661-image-smoother](https://github.com/Tushar-9009/Leetcode/tree/master/0661-image-smoother) |
 ## Divide and Conquer
 |  |
 | ------- |

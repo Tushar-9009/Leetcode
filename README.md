@@ -10,6 +10,7 @@ A collection of LeetCode questions with solutions.
 | [0053-maximum-subarray](https://github.com/Tushar-9009/Leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Tushar-9009/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Tushar-9009/Leetcode/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/Tushar-9009/Leetcode/tree/master/0118-pascals-triangle) |
 | [0268-missing-number](https://github.com/Tushar-9009/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Tushar-9009/Leetcode/tree/master/0283-move-zeroes) |
 | [0498-diagonal-traverse](https://github.com/Tushar-9009/Leetcode/tree/master/0498-diagonal-traverse) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions with solutions.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Tushar-9009/Leetcode/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/Tushar-9009/Leetcode/tree/master/0118-pascals-triangle) |
 | [0509-fibonacci-number](https://github.com/Tushar-9009/Leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |

@@ -15,6 +15,7 @@ A collection of LeetCode questions with solutions.
 | [0498-diagonal-traverse](https://github.com/Tushar-9009/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/Tushar-9009/Leetcode/tree/master/0661-image-smoother) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tushar-9009/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/Tushar-9009/Leetcode/tree/master/1051-height-checker) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Tushar-9009/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2460-apply-operations-to-an-array](https://github.com/Tushar-9009/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 ## Hash Table
@@ -37,6 +38,7 @@ A collection of LeetCode questions with solutions.
 | [0075-sort-colors](https://github.com/Tushar-9009/Leetcode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Tushar-9009/Leetcode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tushar-9009/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/Tushar-9009/Leetcode/tree/master/1051-height-checker) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Tushar-9009/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Math
 |  |
@@ -81,4 +83,8 @@ A collection of LeetCode questions with solutions.
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Tushar-9009/Leetcode/tree/master/0268-missing-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Tushar-9009/Leetcode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->

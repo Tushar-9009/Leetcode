@@ -28,6 +28,7 @@ A collection of LeetCode questions with solutions.
 | [0001-two-sum](https://github.com/Tushar-9009/Leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Tushar-9009/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0268-missing-number](https://github.com/Tushar-9009/Leetcode/tree/master/0268-missing-number) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Tushar-9009/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -99,4 +100,8 @@ A collection of LeetCode questions with solutions.
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tushar-9009/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## String
+|  |
+| ------- |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Tushar-9009/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->

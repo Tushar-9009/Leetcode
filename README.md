@@ -10,6 +10,7 @@ A collection of LeetCode questions with solutions.
 | [0053-maximum-subarray](https://github.com/Tushar-9009/Leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Tushar-9009/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Tushar-9009/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Tushar-9009/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Tushar-9009/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Tushar-9009/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0268-missing-number](https://github.com/Tushar-9009/Leetcode/tree/master/0268-missing-number) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions with solutions.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tushar-9009/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Tushar-9009/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Tushar-9009/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Tushar-9009/Leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Tushar-9009/Leetcode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tushar-9009/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -43,6 +45,7 @@ A collection of LeetCode questions with solutions.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Tushar-9009/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Tushar-9009/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Tushar-9009/Leetcode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tushar-9009/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Tushar-9009/Leetcode/tree/master/1051-height-checker) |

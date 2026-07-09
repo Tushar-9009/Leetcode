@@ -41,6 +41,7 @@ A collection of LeetCode questions with solutions.
 | [0125-valid-palindrome](https://github.com/Tushar-9009/Leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Tushar-9009/Leetcode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tushar-9009/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/Tushar-9009/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2460-apply-operations-to-an-array](https://github.com/Tushar-9009/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 ## Sorting
 |  |
@@ -113,5 +114,6 @@ A collection of LeetCode questions with solutions.
 | [0125-valid-palindrome](https://github.com/Tushar-9009/Leetcode/tree/master/0125-valid-palindrome) |
 | [1108-defanging-an-ip-address](https://github.com/Tushar-9009/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/Tushar-9009/Leetcode/tree/master/1528-shuffle-string) |
+| [1768-merge-strings-alternately](https://github.com/Tushar-9009/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Tushar-9009/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->

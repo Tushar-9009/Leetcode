@@ -60,6 +60,7 @@ A collection of LeetCode questions with solutions.
 | [0009-palindrome-number](https://github.com/Tushar-9009/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Tushar-9009/Leetcode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Tushar-9009/Leetcode/tree/master/0268-missing-number) |
+| [0415-add-strings](https://github.com/Tushar-9009/Leetcode/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/Tushar-9009/Leetcode/tree/master/0509-fibonacci-number) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Tushar-9009/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Dynamic Programming
@@ -80,6 +81,7 @@ A collection of LeetCode questions with solutions.
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/Tushar-9009/Leetcode/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/Tushar-9009/Leetcode/tree/master/0498-diagonal-traverse) |
 | [2460-apply-operations-to-an-array](https://github.com/Tushar-9009/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 ## Matrix
@@ -113,6 +115,7 @@ A collection of LeetCode questions with solutions.
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Tushar-9009/Leetcode/tree/master/0125-valid-palindrome) |
+| [0415-add-strings](https://github.com/Tushar-9009/Leetcode/tree/master/0415-add-strings) |
 | [1108-defanging-an-ip-address](https://github.com/Tushar-9009/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/Tushar-9009/Leetcode/tree/master/1528-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/Tushar-9009/Leetcode/tree/master/1678-goal-parser-interpretation) |

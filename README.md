@@ -16,6 +16,7 @@ A collection of LeetCode questions with solutions.
 | [0119-pascals-triangle-ii](https://github.com/Tushar-9009/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0268-missing-number](https://github.com/Tushar-9009/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Tushar-9009/Leetcode/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Tushar-9009/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0498-diagonal-traverse](https://github.com/Tushar-9009/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/Tushar-9009/Leetcode/tree/master/0661-image-smoother) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tushar-9009/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -122,4 +123,12 @@ A collection of LeetCode questions with solutions.
 | [1768-merge-strings-alternately](https://github.com/Tushar-9009/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1816-truncate-sentence](https://github.com/Tushar-9009/Leetcode/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Tushar-9009/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Tushar-9009/Leetcode/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Tushar-9009/Leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->

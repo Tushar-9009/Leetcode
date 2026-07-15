@@ -109,6 +109,7 @@ A collection of LeetCode questions with solutions.
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Tushar-9009/Leetcode/tree/master/1051-height-checker) |
+| [2833-furthest-point-from-origin](https://github.com/Tushar-9009/Leetcode/tree/master/2833-furthest-point-from-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions with solutions.
 | [1768-merge-strings-alternately](https://github.com/Tushar-9009/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1816-truncate-sentence](https://github.com/Tushar-9009/Leetcode/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Tushar-9009/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2833-furthest-point-from-origin](https://github.com/Tushar-9009/Leetcode/tree/master/2833-furthest-point-from-origin) |
 ## Design
 |  |
 | ------- |

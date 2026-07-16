@@ -85,6 +85,7 @@ A collection of LeetCode questions with solutions.
 | [0415-add-strings](https://github.com/Tushar-9009/Leetcode/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/Tushar-9009/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/Tushar-9009/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [1603-design-parking-system](https://github.com/Tushar-9009/Leetcode/tree/master/1603-design-parking-system) |
 | [2460-apply-operations-to-an-array](https://github.com/Tushar-9009/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 ## Matrix
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions with solutions.
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Tushar-9009/Leetcode/tree/master/1051-height-checker) |
+| [1603-design-parking-system](https://github.com/Tushar-9009/Leetcode/tree/master/1603-design-parking-system) |
 | [2833-furthest-point-from-origin](https://github.com/Tushar-9009/Leetcode/tree/master/2833-furthest-point-from-origin) |
 ## Heap (Priority Queue)
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions with solutions.
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Tushar-9009/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [1603-design-parking-system](https://github.com/Tushar-9009/Leetcode/tree/master/1603-design-parking-system) |
 ## Prefix Sum
 |  |
 | ------- |

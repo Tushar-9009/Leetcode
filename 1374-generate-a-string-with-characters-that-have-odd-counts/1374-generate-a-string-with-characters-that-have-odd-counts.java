@@ -1,9 +1,16 @@
 class Solution {
     public String generateTheString(int n) {
+        char[] arr = new char[n];
         if (n % 2 == 1) {
-            return "a".repeat(n);
+            for(int i=0;i<n;i++){
+                arr[i]='a';
+            }
         } else {
-            return "a".repeat(n - 1) + "b";
+            arr[0]='a';
+            for(int i=1;i<n;i++){
+                arr[i]='b';
+            }
         }
+        return new String(arr);
     }
 }

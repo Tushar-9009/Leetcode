@@ -25,6 +25,7 @@ A collection of LeetCode questions with solutions.
 | [1408-string-matching-in-an-array](https://github.com/Tushar-9009/Leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tushar-9009/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1528-shuffle-string](https://github.com/Tushar-9009/Leetcode/tree/master/1528-shuffle-string) |
+| [1732-find-the-highest-altitude](https://github.com/Tushar-9009/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1816-truncate-sentence](https://github.com/Tushar-9009/Leetcode/tree/master/1816-truncate-sentence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Tushar-9009/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2460-apply-operations-to-an-array](https://github.com/Tushar-9009/Leetcode/tree/master/2460-apply-operations-to-an-array) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions with solutions.
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Tushar-9009/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [1732-find-the-highest-altitude](https://github.com/Tushar-9009/Leetcode/tree/master/1732-find-the-highest-altitude) |
 ## String Matching
 |  |
 | ------- |

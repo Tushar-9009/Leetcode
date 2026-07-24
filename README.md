@@ -6,6 +6,7 @@ A collection of LeetCode questions with solutions.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Tushar-9009/Leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Tushar-9009/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tushar-9009/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Tushar-9009/Leetcode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Tushar-9009/Leetcode/tree/master/0053-maximum-subarray) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions with solutions.
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Tushar-9009/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Tushar-9009/Leetcode/tree/master/0125-valid-palindrome) |
 | [0415-add-strings](https://github.com/Tushar-9009/Leetcode/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/Tushar-9009/Leetcode/tree/master/0657-robot-return-to-origin) |
@@ -155,4 +157,8 @@ A collection of LeetCode questions with solutions.
 | ------- |
 | [1408-string-matching-in-an-array](https://github.com/Tushar-9009/Leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Tushar-9009/Leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Tushar-9009/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

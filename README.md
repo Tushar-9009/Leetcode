@@ -63,6 +63,7 @@ A collection of LeetCode questions with solutions.
 | [1051-height-checker](https://github.com/Tushar-9009/Leetcode/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tushar-9009/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Tushar-9009/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/Tushar-9009/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Math
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions with solutions.
 | [0415-add-strings](https://github.com/Tushar-9009/Leetcode/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/Tushar-9009/Leetcode/tree/master/0509-fibonacci-number) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Tushar-9009/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3536-maximum-product-of-two-digits](https://github.com/Tushar-9009/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Dynamic Programming
 |  |
 | ------- |

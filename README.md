@@ -31,6 +31,7 @@ A collection of LeetCode questions with solutions.
 | [1732-find-the-highest-altitude](https://github.com/Tushar-9009/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/Tushar-9009/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1816-truncate-sentence](https://github.com/Tushar-9009/Leetcode/tree/master/1816-truncate-sentence) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/Tushar-9009/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Tushar-9009/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2460-apply-operations-to-an-array](https://github.com/Tushar-9009/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Tushar-9009/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |

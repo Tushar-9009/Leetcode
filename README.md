@@ -16,6 +16,7 @@ A collection of LeetCode questions with solutions.
 | [0088-merge-sorted-array](https://github.com/Tushar-9009/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Tushar-9009/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Tushar-9009/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0217-contains-duplicate](https://github.com/Tushar-9009/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Tushar-9009/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Tushar-9009/Leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Tushar-9009/Leetcode/tree/master/0303-range-sum-query-immutable) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions with solutions.
 | ------- |
 | [0001-two-sum](https://github.com/Tushar-9009/Leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Tushar-9009/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0217-contains-duplicate](https://github.com/Tushar-9009/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Tushar-9009/Leetcode/tree/master/0268-missing-number) |
 | [1748-sum-of-unique-elements](https://github.com/Tushar-9009/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Tushar-9009/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions with solutions.
 | ------- |
 | [0075-sort-colors](https://github.com/Tushar-9009/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Tushar-9009/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Tushar-9009/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Tushar-9009/Leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tushar-9009/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tushar-9009/Leetcode/tree/master/0977-squares-of-a-sorted-array) |

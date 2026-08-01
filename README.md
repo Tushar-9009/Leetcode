@@ -80,6 +80,7 @@ A collection of LeetCode questions with solutions.
 | [0415-add-strings](https://github.com/Tushar-9009/Leetcode/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/Tushar-9009/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tushar-9009/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Tushar-9009/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Tushar-9009/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3536-maximum-product-of-two-digits](https://github.com/Tushar-9009/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Dynamic Programming
@@ -154,6 +155,7 @@ A collection of LeetCode questions with solutions.
 | [1816-truncate-sentence](https://github.com/Tushar-9009/Leetcode/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Tushar-9009/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2833-furthest-point-from-origin](https://github.com/Tushar-9009/Leetcode/tree/master/2833-furthest-point-from-origin) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Tushar-9009/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Design
 |  |
 | ------- |
@@ -173,4 +175,8 @@ A collection of LeetCode questions with solutions.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Tushar-9009/Leetcode/tree/master/0014-longest-common-prefix) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Tushar-9009/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->

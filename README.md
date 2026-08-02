@@ -23,6 +23,7 @@ A collection of LeetCode questions with solutions.
 | [0498-diagonal-traverse](https://github.com/Tushar-9009/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tushar-9009/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0661-image-smoother](https://github.com/Tushar-9009/Leetcode/tree/master/0661-image-smoother) |
+| [0877-stone-game](https://github.com/Tushar-9009/Leetcode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tushar-9009/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Tushar-9009/Leetcode/tree/master/1051-height-checker) |
 | [1408-string-matching-in-an-array](https://github.com/Tushar-9009/Leetcode/tree/master/1408-string-matching-in-an-array) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions with solutions.
 | [0415-add-strings](https://github.com/Tushar-9009/Leetcode/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/Tushar-9009/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tushar-9009/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Tushar-9009/Leetcode/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Tushar-9009/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Tushar-9009/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3536-maximum-product-of-two-digits](https://github.com/Tushar-9009/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions with solutions.
 | [0118-pascals-triangle](https://github.com/Tushar-9009/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Tushar-9009/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0509-fibonacci-number](https://github.com/Tushar-9009/Leetcode/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Tushar-9009/Leetcode/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -179,4 +182,8 @@ A collection of LeetCode questions with solutions.
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Tushar-9009/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Tushar-9009/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->

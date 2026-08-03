@@ -43,6 +43,7 @@ A collection of LeetCode questions with solutions.
 | [0001-two-sum](https://github.com/Tushar-9009/Leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Tushar-9009/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/Tushar-9009/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Tushar-9009/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Tushar-9009/Leetcode/tree/master/0268-missing-number) |
 | [1748-sum-of-unique-elements](https://github.com/Tushar-9009/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Tushar-9009/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions with solutions.
 | [0075-sort-colors](https://github.com/Tushar-9009/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Tushar-9009/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Tushar-9009/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Tushar-9009/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Tushar-9009/Leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tushar-9009/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tushar-9009/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions with solutions.
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Tushar-9009/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Tushar-9009/Leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Tushar-9009/Leetcode/tree/master/0242-valid-anagram) |
 | [0415-add-strings](https://github.com/Tushar-9009/Leetcode/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/Tushar-9009/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [1108-defanging-an-ip-address](https://github.com/Tushar-9009/Leetcode/tree/master/1108-defanging-an-ip-address) |

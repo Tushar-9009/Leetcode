@@ -37,6 +37,7 @@ A collection of LeetCode questions with solutions.
 | [2089-find-target-indices-after-sorting-array](https://github.com/Tushar-9009/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2460-apply-operations-to-an-array](https://github.com/Tushar-9009/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Tushar-9009/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3731-find-missing-elements](https://github.com/Tushar-9009/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions with solutions.
 | [0268-missing-number](https://github.com/Tushar-9009/Leetcode/tree/master/0268-missing-number) |
 | [1748-sum-of-unique-elements](https://github.com/Tushar-9009/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Tushar-9009/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3731-find-missing-elements](https://github.com/Tushar-9009/Leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions with solutions.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tushar-9009/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Tushar-9009/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Tushar-9009/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/Tushar-9009/Leetcode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |

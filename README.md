@@ -56,6 +56,7 @@ A collection of LeetCode questions with solutions.
 | [0088-merge-sorted-array](https://github.com/Tushar-9009/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Tushar-9009/Leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Tushar-9009/Leetcode/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/Tushar-9009/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tushar-9009/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Tushar-9009/Leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1768-merge-strings-alternately](https://github.com/Tushar-9009/Leetcode/tree/master/1768-merge-strings-alternately) |
@@ -189,4 +190,8 @@ A collection of LeetCode questions with solutions.
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Tushar-9009/Leetcode/tree/master/0877-stone-game) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Tushar-9009/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->

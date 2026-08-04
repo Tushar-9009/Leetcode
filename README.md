@@ -23,6 +23,7 @@ A collection of LeetCode questions with solutions.
 | [0498-diagonal-traverse](https://github.com/Tushar-9009/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tushar-9009/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0661-image-smoother](https://github.com/Tushar-9009/Leetcode/tree/master/0661-image-smoother) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Tushar-9009/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/Tushar-9009/Leetcode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tushar-9009/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Tushar-9009/Leetcode/tree/master/1051-height-checker) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions with solutions.
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Tushar-9009/Leetcode/tree/master/0268-missing-number) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Tushar-9009/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Tushar-9009/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
@@ -197,4 +199,8 @@ A collection of LeetCode questions with solutions.
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/Tushar-9009/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Tushar-9009/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->

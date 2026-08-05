@@ -16,6 +16,7 @@ A collection of LeetCode questions with solutions.
 | [0088-merge-sorted-array](https://github.com/Tushar-9009/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Tushar-9009/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Tushar-9009/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0169-majority-element](https://github.com/Tushar-9009/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Tushar-9009/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Tushar-9009/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Tushar-9009/Leetcode/tree/master/0283-move-zeroes) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions with solutions.
 | ------- |
 | [0001-two-sum](https://github.com/Tushar-9009/Leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Tushar-9009/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/Tushar-9009/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Tushar-9009/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Tushar-9009/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Tushar-9009/Leetcode/tree/master/0268-missing-number) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions with solutions.
 | ------- |
 | [0075-sort-colors](https://github.com/Tushar-9009/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Tushar-9009/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Tushar-9009/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Tushar-9009/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Tushar-9009/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Tushar-9009/Leetcode/tree/master/0268-missing-number) |
@@ -128,6 +131,7 @@ A collection of LeetCode questions with solutions.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Tushar-9009/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Tushar-9009/Leetcode/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -141,6 +145,7 @@ A collection of LeetCode questions with solutions.
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Tushar-9009/Leetcode/tree/master/0169-majority-element) |
 | [1051-height-checker](https://github.com/Tushar-9009/Leetcode/tree/master/1051-height-checker) |
 | [1603-design-parking-system](https://github.com/Tushar-9009/Leetcode/tree/master/1603-design-parking-system) |
 | [1748-sum-of-unique-elements](https://github.com/Tushar-9009/Leetcode/tree/master/1748-sum-of-unique-elements) |
@@ -203,4 +208,8 @@ A collection of LeetCode questions with solutions.
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Tushar-9009/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Tushar-9009/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

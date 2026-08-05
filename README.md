@@ -106,6 +106,7 @@ A collection of LeetCode questions with solutions.
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Tushar-9009/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0509-fibonacci-number](https://github.com/Tushar-9009/Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -203,6 +204,7 @@ A collection of LeetCode questions with solutions.
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Tushar-9009/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/Tushar-9009/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Ternary Search
 |  |

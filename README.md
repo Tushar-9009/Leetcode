@@ -16,6 +16,7 @@ A collection of LeetCode questions with solutions.
 | [0088-merge-sorted-array](https://github.com/Tushar-9009/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Tushar-9009/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Tushar-9009/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Tushar-9009/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Tushar-9009/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Tushar-9009/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Tushar-9009/Leetcode/tree/master/0268-missing-number) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions with solutions.
 | ------- |
 | [0001-two-sum](https://github.com/Tushar-9009/Leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Tushar-9009/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/Tushar-9009/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Tushar-9009/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Tushar-9009/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Tushar-9009/Leetcode/tree/master/0242-valid-anagram) |
@@ -219,4 +221,8 @@ A collection of LeetCode questions with solutions.
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Tushar-9009/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Tushar-9009/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->

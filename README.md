@@ -47,6 +47,7 @@ A collection of LeetCode questions with solutions.
 | [0001-two-sum](https://github.com/Tushar-9009/Leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Tushar-9009/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Tushar-9009/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/Tushar-9009/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Tushar-9009/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Tushar-9009/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Tushar-9009/Leetcode/tree/master/0242-valid-anagram) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions with solutions.
 | [0075-sort-colors](https://github.com/Tushar-9009/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Tushar-9009/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Tushar-9009/Leetcode/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/Tushar-9009/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/Tushar-9009/Leetcode/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/Tushar-9009/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tushar-9009/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions with solutions.
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Tushar-9009/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/Tushar-9009/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/Tushar-9009/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Tushar-9009/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -227,4 +230,8 @@ A collection of LeetCode questions with solutions.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Tushar-9009/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Tushar-9009/Leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->

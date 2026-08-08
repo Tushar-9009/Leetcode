@@ -20,16 +20,12 @@ class Solution {
             count++;
             temp = temp.next;
         }
-        if (count == 2) {
-            head.next = null;
-        } else {
-            int start = count / 2 ;
-            temp = head;
-            for (int i = 1; i < start; i++) {
-                temp = temp.next;
-            }
-            temp.next = temp.next.next;
+        int start = count / 2 ;
+        temp = head;
+        for (int i = 1; i < start; i++) {
+            temp = temp.next;
         }
+        temp.next = temp.next.next;
         return head;
     }
 }

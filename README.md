@@ -30,6 +30,7 @@ A collection of LeetCode questions with solutions.
 | [0877-stone-game](https://github.com/Tushar-9009/Leetcode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tushar-9009/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Tushar-9009/Leetcode/tree/master/1051-height-checker) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/Tushar-9009/Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1408-string-matching-in-an-array](https://github.com/Tushar-9009/Leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tushar-9009/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1528-shuffle-string](https://github.com/Tushar-9009/Leetcode/tree/master/1528-shuffle-string) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions with solutions.
 | [0498-diagonal-traverse](https://github.com/Tushar-9009/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/Tushar-9009/Leetcode/tree/master/0661-image-smoother) |
 | [0867-transpose-matrix](https://github.com/Tushar-9009/Leetcode/tree/master/0867-transpose-matrix) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/Tushar-9009/Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1706-where-will-the-ball-fall](https://github.com/Tushar-9009/Leetcode/tree/master/1706-where-will-the-ball-fall) |
 ## Divide and Conquer
 |  |

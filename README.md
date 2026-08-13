@@ -23,6 +23,7 @@ A collection of LeetCode questions with solutions.
 | [0283-move-zeroes](https://github.com/Tushar-9009/Leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Tushar-9009/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0498-diagonal-traverse](https://github.com/Tushar-9009/Leetcode/tree/master/0498-diagonal-traverse) |
+| [0605-can-place-flowers](https://github.com/Tushar-9009/Leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tushar-9009/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0661-image-smoother](https://github.com/Tushar-9009/Leetcode/tree/master/0661-image-smoother) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Tushar-9009/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions with solutions.
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/Tushar-9009/Leetcode/tree/master/0605-can-place-flowers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Tushar-9009/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Game Theory
 |  |

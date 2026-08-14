@@ -58,6 +58,7 @@ A collection of LeetCode questions with solutions.
 | [0268-missing-number](https://github.com/Tushar-9009/Leetcode/tree/master/0268-missing-number) |
 | [1748-sum-of-unique-elements](https://github.com/Tushar-9009/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Tushar-9009/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Tushar-9009/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/Tushar-9009/Leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -189,6 +190,7 @@ A collection of LeetCode questions with solutions.
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Tushar-9009/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2833-furthest-point-from-origin](https://github.com/Tushar-9009/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Tushar-9009/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Tushar-9009/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Design
 |  |
 | ------- |
@@ -247,4 +249,8 @@ A collection of LeetCode questions with solutions.
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Tushar-9009/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Tushar-9009/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Tushar-9009/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->

@@ -26,6 +26,7 @@ A collection of LeetCode questions with solutions.
 | [0605-can-place-flowers](https://github.com/Tushar-9009/Leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tushar-9009/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0661-image-smoother](https://github.com/Tushar-9009/Leetcode/tree/master/0661-image-smoother) |
+| [0766-toeplitz-matrix](https://github.com/Tushar-9009/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Tushar-9009/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Tushar-9009/Leetcode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/Tushar-9009/Leetcode/tree/master/0877-stone-game) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions with solutions.
 | [0073-set-matrix-zeroes](https://github.com/Tushar-9009/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/Tushar-9009/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/Tushar-9009/Leetcode/tree/master/0661-image-smoother) |
+| [0766-toeplitz-matrix](https://github.com/Tushar-9009/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Tushar-9009/Leetcode/tree/master/0867-transpose-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Tushar-9009/Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1706-where-will-the-ball-fall](https://github.com/Tushar-9009/Leetcode/tree/master/1706-where-will-the-ball-fall) |

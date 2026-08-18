@@ -10,6 +10,7 @@ A collection of LeetCode questions with solutions.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tushar-9009/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Tushar-9009/Leetcode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Tushar-9009/Leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Tushar-9009/Leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Tushar-9009/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Tushar-9009/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Tushar-9009/Leetcode/tree/master/0075-sort-colors) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions with solutions.
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Tushar-9009/Leetcode/tree/master/0054-spiral-matrix) |
 | [0415-add-strings](https://github.com/Tushar-9009/Leetcode/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/Tushar-9009/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/Tushar-9009/Leetcode/tree/master/0657-robot-return-to-origin) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions with solutions.
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Tushar-9009/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Tushar-9009/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/Tushar-9009/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/Tushar-9009/Leetcode/tree/master/0661-image-smoother) |

@@ -27,6 +27,7 @@ A collection of LeetCode questions with solutions.
 | [0605-can-place-flowers](https://github.com/Tushar-9009/Leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tushar-9009/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0661-image-smoother](https://github.com/Tushar-9009/Leetcode/tree/master/0661-image-smoother) |
+| [0704-binary-search](https://github.com/Tushar-9009/Leetcode/tree/master/0704-binary-search) |
 | [0766-toeplitz-matrix](https://github.com/Tushar-9009/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Tushar-9009/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Tushar-9009/Leetcode/tree/master/0867-transpose-matrix) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions with solutions.
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Tushar-9009/Leetcode/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/Tushar-9009/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Tushar-9009/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Tushar-9009/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation

@@ -31,6 +31,7 @@ A collection of LeetCode questions with solutions.
 | [0766-toeplitz-matrix](https://github.com/Tushar-9009/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Tushar-9009/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Tushar-9009/Leetcode/tree/master/0867-transpose-matrix) |
+| [0875-koko-eating-bananas](https://github.com/Tushar-9009/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Tushar-9009/Leetcode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tushar-9009/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Tushar-9009/Leetcode/tree/master/1051-height-checker) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions with solutions.
 | [0268-missing-number](https://github.com/Tushar-9009/Leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Tushar-9009/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Tushar-9009/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/Tushar-9009/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Tushar-9009/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |

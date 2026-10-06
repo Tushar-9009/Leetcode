@@ -264,4 +264,8 @@ A collection of LeetCode questions with solutions.
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Tushar-9009/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Tushar-9009/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
